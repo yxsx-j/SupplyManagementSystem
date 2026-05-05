@@ -1,0 +1,16 @@
+# 货源管理系统 - 依赖包
+# 安装命令: pip install -r requirements.txt
+
+# Web版本依赖
+Flask==3.0.0
+Flask-SQLAlchemy==3.1.1
+
+# 数据处理与导出
+pandas==2.1.4
+openpyxl==3.1.2
+
+# 数据库
+SQLAlchemy==2.0.23
+
+# 可选：CLI版本额外依赖
+# python-dotenv==1.0.0
